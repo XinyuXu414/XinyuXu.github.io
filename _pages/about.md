@@ -45,7 +45,7 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/OL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 High-frame-rate reconfigurable diffractive neural network based on superpixels
