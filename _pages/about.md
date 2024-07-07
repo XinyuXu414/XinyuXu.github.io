@@ -23,6 +23,8 @@ Currently, I am a first year PhD student at UNC Chapel Hill, advised by professo
 <br/>
 I have some experience in both diffractive neural network and wavefront shaping, while currently I am interested in computational optics, specifically computational imaging. 
 
+<br/>
+
 Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for any communications related to the computational optics or anything else that I can help with..
 
 <br/>
@@ -32,11 +34,14 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 - *2024.03*: &nbsp;🎉🎉 Admitted by the BME PhD program of Gatech & Emory! ⚡️
 - *2024.02*: &nbsp;🎉🎉 Admitted by the CS department of UNC Chapel Hill! 😄
 
+<br/>
+
 # 🎓 Educations
 - *2024.08*-*Current*: &nbsp; PhD student in UNC Chapel Hill. Major: Computer Science
 - *2021.09*-*2024.06*: &nbsp; Master student in SJTU. Major: Electrical Information Engineering
 - *2017.09* -*2021.07*: &nbsp; Undergraduate student in TJU.  Major: Electrical Engineering
 
+<br/>
 
 # 📝 Publications 
 
@@ -53,6 +58,8 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<br/>
 
 # 💻 Blogs
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
