@@ -50,7 +50,7 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 
 High-frame-rate reconfigurable diffractive neural network based on superpixels
 
-Yuan Qu, **Hengyu Lian**, Chunxu Ding, et al.  
+Yuan Qu†, **Hengyu Lian†**, Chunxu Ding, et al.  
 
 *OSA Optics Letters,* 2023
 [Website](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025)
@@ -59,11 +59,11 @@ Yuan Qu, **Hengyu Lian**, Chunxu Ding, et al.
  
  <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">optical engineering 2024</div><img src='images/optical_engineering.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering 2024</div><img src='images/optical_engineering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Time series analysis for financial indices using optical reservoir computing
-Yuan Qu, **Hengyu Lian**, Rongjun Shao, et al.  
+Yuan Qu†, **Hengyu Lian†**, Rongjun Shao, et al.  
 *SPIE Optical Engineering,* 2024
 [Website](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_) 
 - Optical reservoir computing with scatter medium
