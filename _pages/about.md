@@ -50,12 +50,14 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 
 High-frame-rate reconfigurable diffractive neural network based on superpixels
 
-Yuan Qu*, **Hengyu Lian***, Chunxu Ding, et al. 
-*OSA Optics Letters, 2023
+Yuan Qu, **Hengyu Lian**, Chunxu Ding, et al.  
+
+*OSA Optics Letters,* 2023
 [Website](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025)
 - Superpixels wavefront shaping methods
 - High-frame-rate reconfigurable DNN
  
+
 </div>
 </div>
 
