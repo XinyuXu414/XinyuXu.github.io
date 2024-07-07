@@ -17,18 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<br/>
 Currently, I am a first year PhD student at UNC Chapel Hill, advised by professor [Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). I've received my Master degree majoring in Electronic and Information Engineering at [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn), where I worked with professor [Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and professor [Jiamiao Yang](https://ssse.sjtu.edu.cn/Data/Info/474) in [IPSI](https://juopt.sjtu.edu.cn/). Before that, I've obtained the Bachelor's degree in Electronic Engineering from [Tianjin University](https://www.tju.edu.cn/).
 
+<br/>
 I have some experience in both diffractive neural network and wavefront shaping, while currently I am interested in computational optics, specifically computational imaging. 
 
 Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for any communications related to the computational optics or anything else that I can help with..
 
 
-# 🔥 News
+# 🔥 Recent News
 - *2024.06*: &nbsp;🎉🎉 Feel happy for graduation from SJTU and will start my PhD in UNC Chapel Hill. 😊 
 - *2024.03*: &nbsp;🎉🎉 Admitted by the BME PhD program of Gatech & Emory! ⚡️
 - *2024.02*: &nbsp;🎉🎉 Admitted by the CS department of UNC Chapel Hill! 😄
 
+# 🎓 Education
+- *2024.08 &nbsp; - &nbsp; Current*: PhD student in UNC Chapel Hill. Major: Computer Science
+- *2021.09 &nbsp; - &nbsp; 2024.06*: Master student in SJTU. Major: Electrical Information Engineering
+- *2017.09 &nbsp; - &nbsp; 2021.07*: Undergraduate student in TJU.  Major: Electrical Engineering
 
 
 # 📝 Publications 
