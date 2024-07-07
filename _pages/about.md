@@ -32,9 +32,9 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 - *2024.02*: &nbsp;🎉🎉 Admitted by the CS department of UNC Chapel Hill! 😄
 
 # 🎓 Education
-- *2024.08 &nbsp; - &nbsp; Current*: PhD student in UNC Chapel Hill. Major: Computer Science
-- *2021.09 &nbsp; - &nbsp; 2024.06*: Master student in SJTU. Major: Electrical Information Engineering
-- *2017.09 &nbsp; - &nbsp; 2021.07*: Undergraduate student in TJU.  Major: Electrical Engineering
+- *2024.08*-*Current*: &nbsp; PhD student in UNC Chapel Hill. Major: Computer Science
+- *2021.09*-*2024.06*: &nbsp; Master student in SJTU. Major: Electrical Information Engineering
+- *2017.09* -*2021.07*: &nbsp; Undergraduate student in TJU.  Major: Electrical Engineering
 
 
 # 📝 Publications 
@@ -53,17 +53,5 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Blogs
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
