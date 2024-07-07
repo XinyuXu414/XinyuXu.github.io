@@ -25,13 +25,14 @@ I have some experience in both diffractive neural network and wavefront shaping,
 
 Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for any communications related to the computational optics or anything else that I can help with..
 
+<br/>
 
 # 🔥 Recent News
 - *2024.06*: &nbsp;🎉🎉 Feel happy for graduation from SJTU and will start my PhD in UNC Chapel Hill. 😊 
 - *2024.03*: &nbsp;🎉🎉 Admitted by the BME PhD program of Gatech & Emory! ⚡️
 - *2024.02*: &nbsp;🎉🎉 Admitted by the CS department of UNC Chapel Hill! 😄
 
-# 🎓 Education
+# 🎓 Educations
 - *2024.08*-*Current*: &nbsp; PhD student in UNC Chapel Hill. Major: Computer Science
 - *2021.09*-*2024.06*: &nbsp; Master student in SJTU. Major: Electrical Information Engineering
 - *2017.09* -*2021.07*: &nbsp; Undergraduate student in TJU.  Major: Electrical Engineering
