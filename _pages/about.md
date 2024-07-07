@@ -59,7 +59,7 @@ Yuan Qu†, **Hengyu Lian†**, Chunxu Ding, et al.
  
  <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering 2024</div><img src='images/optical_engineering.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering 2024</div><img src='images/opticalengineering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Time series analysis for financial indices using optical reservoir computing
