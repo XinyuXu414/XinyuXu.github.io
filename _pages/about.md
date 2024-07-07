@@ -25,8 +25,9 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 Feel happy for graduation from SJTU. :) 
+- *2024.03*: &nbsp;🎉🎉 Admitted by the BME PhD program of Gatech & Emory! :smile:
+- *2024.02*: &nbsp;🎉🎉 Admitted by the CS department of UNC Chapel Hill! :sparkles:
 
 # 📝 Publications 
 
