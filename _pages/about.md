@@ -57,6 +57,9 @@ Yuan Qu†, **Hengyu Lian†**, Chunxu Ding, et al.
 - Superpixels wavefront shaping methods
 - High-frame-rate reconfigurable DNN
  
+</div>
+</div>
+
  <br/>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering 2024</div><img src='images/opticalengineering.png' alt="sym" width="100%"></div></div>
@@ -68,6 +71,9 @@ Yuan Qu†, **Hengyu Lian†**, Rongjun Shao, et al.
 [Website](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_) 
 - Optical reservoir computing with scatter medium
 - Time series analysis
+
+</div>
+</div>
 
 <br/>
 
