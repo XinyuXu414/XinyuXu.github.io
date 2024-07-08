@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+
 <br/>
-Currently, I am a first year PhD student at UNC Chapel Hill, advised by professor <span style="color: #FFA500;">[Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/)</span>. I've received my Master degree majoring in Electronic and Information Engineering at <span style="color: #DDA0DD;">[Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn), where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: red;">Yuan Qu</span></a> and professor <span style="color: #9400D3;">[Jiamiao Yang](https://ssse.sjtu.edu.cn/Data/Info/474) in <span style="color: #9400D3;">[IPSI](https://juopt.sjtu.edu.cn/). Before that, I've obtained the Bachelor's degree in Electronic Engineering from <span style="color: #9400D3;">[Tianjin University](https://www.tju.edu.cn/).
+Currently, I am a first year PhD student at UNC Chapel Hill, advised by professor <a href="https://www.cs.unc.edu/~cpk/"><span style="color: #9400D3;">Praneeth Chakravarthula</span></a>. I've received my Master degree majoring in Electronic and Information Engineering at <a href="https://www.sjtu.edu.cn"><span style="color: #9400D3;">Shanghai Jiao Tong University(SJTU)</span></a>, where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: #9400D3;">Yuan Qu</span></a> and professor <a href="https://ssse.sjtu.edu.cn/Data/Info/474"><span style="color: #9400D3;">Jiamiao Yang</span></a> in <a href="https://juopt.sjtu.edu.cn/"><span style="color: #9400D3;">IPSI</span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
 
 <br/>
 I have some research experiences in both diffractive neural network and wavefront shaping, while currently I am interested in computational optics, specifically computational imaging. 
 
 <br/>
 
-Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for any communications related to the computational optics or anything else that I can help with.
+Please feel free to contact me at <a href="https://lianhy0@cs,unc.edu/"><span style="color: #9400D3;">lianhy0@cs.unc.edu</span></a> for any communications related to the computational optics or anything else that I can help with.
 
 <br/>
 
@@ -43,6 +44,7 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 
 <br/>
 
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/OL.png' alt="sym" width="100%"></div></div>
@@ -50,11 +52,11 @@ Please feel free to contact me at [lianhy0@cs.unc.edu](lianhy0@cs.unc.edu) for a
 
 High-frame-rate reconfigurable diffractive neural network based on superpixels
 
-Yuan Qu†, **Hengyu Lian†**, Chunxu Ding, et al.  
+Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span></a>, Chunxu Ding, et al.  
 
 *OSA Optics Letters,* 2023  
 
-[Website](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025)
+<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025"><span style="color: #9400D3;">Website</span></a>
 - Superpixels wavefront shaping methods
 - High-frame-rate reconfigurable DNN
  
@@ -67,10 +69,10 @@ Yuan Qu†, **Hengyu Lian†**, Chunxu Ding, et al.
 <div class='paper-box-text' markdown="1">
 
 Time series analysis for financial indices using optical reservoir computing
-Yuan Qu†, **Hengyu Lian†**, Rongjun Shao, et al.  
+Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span></a>, Rongjun Shao, et al.  
 *SPIE Optical Engineering,* 2024  
 
-[Website](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_) 
+<a href="https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_"><span style="color: #9400D3;">Website</span></a>
 - Optical reservoir computing with scatter medium
 - Time series analysis
 
