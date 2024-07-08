@@ -50,7 +50,7 @@ Please feel free to contact me at <a href="https://lianhy0@cs,unc.edu/"><span st
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/OL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-High-frame-rate reconfigurable diffractive neural network based on superpixels
+**High-frame-rate reconfigurable diffractive neural network based on superpixels**  
 
 Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Chunxu Ding, et al.  
 
@@ -68,8 +68,8 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Chunxu Ding
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering 2024</div><img src='images/opticalengineering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Time series analysis for financial indices using optical reservoir computing  
-
+**Time series analysis for financial indices using optical reservoir computing**  
+  
 Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Shao, et al.  
 *SPIE Optical Engineering,* 2024  
 
@@ -93,7 +93,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
     .image-container {
         display: flex;
         justify-content: space-between;
-        gap: 10px; /* 图片之间的间距 */
+        gap: 3px; /* 图片之间的间距 */
     }
 
     .image-item {
