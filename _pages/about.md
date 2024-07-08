@@ -109,13 +109,13 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
 
 <div class="image-container">
     <div class="image-item">
-        <img src="images/android-chrome-512x512.png" alt="Image 1" />
+        <img src="images/TJU.jpeg" alt="Image 1" />
     </div>
     <div class="image-item">
-        <img src="images/android-chrome-512x512.png" alt="Image 2" />
+        <img src="images/SJTU.png" alt="Image 2" />
     </div>
     <div class="image-item">
-        <img src="images/android-chrome-512x512.png" alt="Image 3" />
+        <img src="images/UNC_logo.png" alt="Image 3" />
     </div>
 </div>
 
