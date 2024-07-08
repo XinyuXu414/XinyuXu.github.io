@@ -52,7 +52,7 @@ Please feel free to contact me at <a href="https://lianhy0@cs,unc.edu/"><span st
 
 High-frame-rate reconfigurable diffractive neural network based on superpixels
 
-Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span></a>, Chunxu Ding, et al.  
+Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Chunxu Ding, et al.  
 
 *OSA Optics Letters,* 2023  
 
@@ -68,8 +68,9 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span></a>, Chunxu 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering 2024</div><img src='images/opticalengineering.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Time series analysis for financial indices using optical reservoir computing
-Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span></a>, Rongjun Shao, et al.  
+Time series analysis for financial indices using optical reservoir computing  
+
+Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Shao, et al.  
 *SPIE Optical Engineering,* 2024  
 
 <a href="https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_"><span style="color: #9400D3;">Website</span></a>
@@ -82,4 +83,13 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span></a>, Rongjun
 <br/>
 
 # 💻 Blogs
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  
+
+<br/>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='android-chrome-512x512.png' alt="sym" width="100%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='android-chrome-512x512.png' alt="sym" width="100%"></div></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='android-chrome-512x512.png' alt="sym" width="100%"></div></div></div>
+
+
+<br/>
