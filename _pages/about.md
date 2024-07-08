@@ -87,9 +87,38 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
 
 <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='android-chrome-512x512.png' alt="sym" width="100%"></div></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><img src='android-chrome-512x512.png' alt="sym" width="100%"></div></div></div>
-<div class='paper-box'><div class='paper-box-image'><div><img src='android-chrome-512x512.png' alt="sym" width="100%"></div></div></div>
+<br/>
 
+<style>
+    .image-container {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px; /* 图片之间的间距 */
+    }
+
+    .image-item {
+        flex: 1;
+        padding: 10px; /* 图片的内边距，可以根据需要调整 */
+    }
+
+    .image-item img {
+        width: 100%;
+        height: auto; /* 保持图片比例 */
+    }
+</style>
+
+<div class="image-container">
+    <div class="image-item">
+        <img src="images/android-chrome-512x512.png" alt="Image 1" />
+    </div>
+    <div class="image-item">
+        <img src="images/android-chrome-512x512.png" alt="Image 2" />
+    </div>
+    <div class="image-item">
+        <img src="images/android-chrome-512x512.png" alt="Image 3" />
+    </div>
+</div>
+
+<br/>
 
 <br/>
