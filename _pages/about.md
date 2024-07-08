@@ -102,7 +102,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
     }
 
     .image-item img {
-        width: 100%;
+        width: 66%;
         height: auto; /* 保持图片比例 */
     }
 </style>
