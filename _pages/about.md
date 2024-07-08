@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <br/>
-Currently, I am a first year PhD student at UNC Chapel Hill, advised by professor [Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). I've received my Master degree majoring in Electronic and Information Engineering at [Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn), where I worked with professor [Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and professor [Jiamiao Yang](https://ssse.sjtu.edu.cn/Data/Info/474) in [IPSI](https://juopt.sjtu.edu.cn/). Before that, I've obtained the Bachelor's degree in Electronic Engineering from [Tianjin University](https://www.tju.edu.cn/).
+Currently, I am a first year PhD student at UNC Chapel Hill, advised by professor <span style="color: #FFA500;">[Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). I've received my Master degree majoring in Electronic and Information Engineering at <span style="color: #DDA0DD;">[Shanghai Jiao Tong University(SJTU)](https://www.sjtu.edu.cn), where I worked with professor <span style="color: #9400D3;">[Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and professor <span style="color: #9400D3;">[Jiamiao Yang](https://ssse.sjtu.edu.cn/Data/Info/474) in <span style="color: #9400D3;">[IPSI](https://juopt.sjtu.edu.cn/). Before that, I've obtained the Bachelor's degree in Electronic Engineering from <span style="color: #9400D3;">[Tianjin University](https://www.tju.edu.cn/).
 
 <br/>
 I have some experience in both diffractive neural network and wavefront shaping, while currently I am interested in computational optics, specifically computational imaging. 
@@ -52,7 +52,8 @@ High-frame-rate reconfigurable diffractive neural network based on superpixels
 
 Yuan Qu†, **Hengyu Lian†**, Chunxu Ding, et al.  
 
-*OSA Optics Letters,* 2023
+*OSA Optics Letters,* 2023  
+
 [Website](https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025)
 - Superpixels wavefront shaping methods
 - High-frame-rate reconfigurable DNN
@@ -67,7 +68,8 @@ Yuan Qu†, **Hengyu Lian†**, Chunxu Ding, et al.
 
 Time series analysis for financial indices using optical reservoir computing
 Yuan Qu†, **Hengyu Lian†**, Rongjun Shao, et al.  
-*SPIE Optical Engineering,* 2024
+*SPIE Optical Engineering,* 2024  
+
 [Website](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_) 
 - Optical reservoir computing with scatter medium
 - Time series analysis
