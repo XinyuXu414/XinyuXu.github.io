@@ -98,7 +98,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
 
     .image-item {
         flex: 1;
-        padding: 10px; /* 图片的内边距，可以根据需要调整 */
+        padding: 1px; /* 图片的内边距，可以根据需要调整 */
     }
 
     .image-item img {
