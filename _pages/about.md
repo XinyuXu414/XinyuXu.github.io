@@ -70,7 +70,8 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Chunxu Ding
 
 **Time series analysis for financial indices using optical reservoir computing**  
   
-Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Shao, et al.  
+Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Shao, et al. 
+
 *SPIE Optical Engineering,* 2024  
 
 <a href="https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_"><span style="color: #9400D3;">Website</span></a>
@@ -93,7 +94,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
     .image-container {
         display: flex;
         justify-content: space-between;
-        gap: 3px; /* 图片之间的间距 */
+        gap: 1px; /* 图片之间的间距 */
     }
 
     .image-item {
@@ -102,7 +103,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
     }
 
     .image-item img {
-        width: 50%;
+        width: 40%;
         height: auto; /* 保持图片比例 */
     }
 </style>
