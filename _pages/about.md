@@ -84,7 +84,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
 <br/>
 
 # 💻 Blogs
-- *Note*, [Computational Imaging]('assets/pdf/Computational Imaging.pdf').  
+- *Note* [Computational Imaging](assets/pdf/Computational Imaging.pdf).  
 
 <br/>
 
