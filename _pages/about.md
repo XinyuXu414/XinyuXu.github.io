@@ -84,7 +84,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
 <br/>
 
 # 💻 Blogs
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  
+- *Note*, [Computational Imaging]('assets/pdf/Computational Imaging.pdf').  
 
 <br/>
 
