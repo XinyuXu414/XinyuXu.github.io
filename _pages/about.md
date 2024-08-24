@@ -31,6 +31,7 @@ Please feel free to contact me at <a href="https://lianhy0@cs,unc.edu/"><span st
 <br/>
 
 # 🔥 News
+- *2024.08*：&nbsp;It was my honor to have a communication with Prof. Wolfgang Heidrich. 🐮
 - *2024.06*: &nbsp;🎉🎉 Feel happy for graduation from SJTU and will start my PhD in UNC Chapel Hill. 😊 
 - *2024.03*: &nbsp;🎉🎉 Admitted by the BME PhD program of Gatech & Emory! ✨
 - *2024.02*: &nbsp;🎉🎉 Admitted by the CS department of UNC Chapel Hill! 😄
@@ -44,6 +45,9 @@ Please feel free to contact me at <a href="https://lianhy0@cs,unc.edu/"><span st
 
 <br/>
 
+- *2024.08*-*Current*: &nbsp; TA in COMP 590-059 Programming Methods, Models, Languages, and Analysis.
+
+<br/>
 
 # 📝 Publications 
 
