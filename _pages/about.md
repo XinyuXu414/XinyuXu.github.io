@@ -91,7 +91,7 @@ Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Sha
 <br/>
 
 # 💻 Blogs
-- *CV: * [CV](assets/pdf/CV-Hengyu Lian 24.05.29.pdf).  
+- *CV: * [CV](assets/pdf/CV-Hengyu Lian 24.10.2.pdf).  
 - *Note: * [Computational Imaging](assets/pdf/Computational Imaging.pdf).  
 
 <br/>
