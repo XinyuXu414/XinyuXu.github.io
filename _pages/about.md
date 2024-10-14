@@ -83,12 +83,12 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS under reveiew 2024</div><img src='imagesIJS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS under reveiew 2024</div><img src='images/IJS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery**  
   
-Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xinyu Xu†**</span> et al.
+Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xinyu Xu†**</span>, et al.
 
 *International Journal of Surgery,* 2024.09(In Peer Review)
 
@@ -106,13 +106,31 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 
 **An Information-expanding Network for Water Body Extraction based on U-net**  
   
-<span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Weiwei Guo, Zenghui Zhang, Tao Zhang*
+<span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Weiwei Guo, Zenghui Zhang, Tao Zhang*.
 
 *IEEE Geoscience and Remote Sensing Letters,* 2023
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10453522"><span style="color: #9400D3;">Website</span></a>
 - Rotation equivariant convolution
 - Rotation-based channel attention mechanism
+
+</div>
+</div>
+
+<br/>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/GRSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Flood Change Detection Based on Prior Feature Estimation**  
+  
+<span style="color: #9400D3;">**Xinyu Xu**</span>, Mingkang Xiong, Sinong Quan, et al.
+
+*IEEE International Geoscience and Remote Sensing Symposium,* 2024
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10640485"><span style="color: #9400D3;">Website</span></a>
+- Heterogeneous image
+- Change detection
 
 </div>
 </div>
