@@ -137,7 +137,7 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 
 <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIERS 2023</div><img src='images/PIERS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIERS 2023</div><img src='images/PIERS.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PolSAR Ship Detection with the Information Reconstruction-based Polarimetric Covariance Matrix**  
