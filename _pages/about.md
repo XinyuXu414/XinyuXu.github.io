@@ -173,14 +173,6 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 
 <br/>
 
-# 💻 Blogs
-- *CV: * [CV](assets/pdf/CV-Hengyu Lian 24.10.2.pdf).  
-- *Note: * [Computational Imaging](assets/pdf/Computational Imaging.pdf).  
-
-<br/>
-
-<br/>
-
 <style>
     .image-container {
         display: flex;
@@ -206,9 +198,7 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
     <div class="image-item">
         <img src="images/SJTU_logo.png" alt="Image 2" />
     </div>
-    <div class="image-item">
-        <img src="images/UNC_logo.png" alt="Image 3" />
-    </div>
+   
 </div>
 
 <br/>
