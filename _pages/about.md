@@ -47,12 +47,12 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/OL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP under reveiew 2023</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation**  
 
-<span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Tao Zhang, Huilin Xiong, Wenxian Yu.
+<span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Huilin Xiong, Wenxian Yu, Tao Zhang*.
 
 *IEEE Transactions on Image Processing,* 2023.11.11(In Peer Review) 
 
@@ -68,11 +68,11 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP under reveiew 2023</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Time series analysis for financial indices using optical reservoir computing**  
+**Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**  
   
-Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Rongjun Shao, et al. 
+<span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Feiming Wei, Huilin Xiong, Wenxian Yu, Tao Zhang*. 
 
-*SPIE Optical Engineering,* 2024  
+*IEEE Transactions on Circuits and Systems for Video Technology,* 2024.08.07(In Peer Review)
 
 <a href="https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_"><span style="color: #9400D3;">Website</span></a>
 - Optical reservoir computing with scatter medium
