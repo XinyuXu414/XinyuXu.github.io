@@ -19,36 +19,29 @@ redirect_from:
 
 
 <br/>
-Currently, I am a third-year graduate student at the <a href="https://ast.sjtu.edu.cn/web/index"><span style="color: #9400D3;">Shanghai Key Laboratory of Intelligent Sensing and Recognition</span></a>, Shanghai Jiao Tong University, advised by professor <a href="https://www.cs.unc.edu/~cpk/"><span style="color: #9400D3;">Praneeth Chakravarthula</span></a>. I've received my Master degree majoring in Electronic and Information Engineering at <a href="https://www.sjtu.edu.cn"><span style="color: #9400D3;">Shanghai Jiao Tong University(SJTU)</span></a>, where I worked with professor <a href="https://ssse.sjtu.edu.cn/Data/Info/413"><span style="color: #9400D3;">Yuan Qu</span></a> and professor <a href="https://ssse.sjtu.edu.cn/Data/Info/474"><span style="color: #9400D3;">Jiamiao Yang</span></a> in <a href="https://juopt.sjtu.edu.cn/"><span style="color: #9400D3;">IPSI</span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
+Currently, I am a third-year graduate student at the <a href="https://ast.sjtu.edu.cn/web/index"><span style="color: #9400D3;">Shanghai Key Laboratory of Intelligent Sensing and Recognition</span></a>, Shanghai Jiao Tong University(SJTU), advised by professor <a href="https://ssse.sjtu.edu.cn/Data/Info/415"><span style="color: #9400D3;">Tao Zhang</span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
 
 <br/>
-I have some research experiences in both diffractive neural network and wavefront shaping, while currently I am interested in computational optics, specifically computational imaging. 
-
-<br/>
-
-Please feel free to contact me at <a href="https://lianhy0@cs,unc.edu/"><span style="color: #9400D3;">lianhy0@cs.unc.edu</span></a> for any communications related to the computational optics or anything else that I can help with.
+I have some research experiences in optical/SAR/medical image processing, invariance/equivariance within neural networks as well as change detection, while currently I am interested in computer vision, specifically theoretical researches. 
 
 <br/>
 
+Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span style="color: #9400D3;">xinyu.xu@sjtu.edu.cn</span></a> for any communications related to the my researches or anything else that I can help with.
+
+<br/>
 
 
 # 🔥 News
-- *2024.08*：&nbsp;It was my honor to have a communication with Prof. Wolfgang Heidrich. 🐮
-- *2024.06*: &nbsp;🎉🎉 Feel happy for graduation from SJTU and will start my PhD in UNC Chapel Hill. 😊 
-- *2024.03*: &nbsp;🎉🎉 Admitted by the BME PhD program of Gatech & Emory! ✨
-- *2024.02*: &nbsp;🎉🎉 Admitted by the CS department of UNC Chapel Hill! 😄
+- *2023.12*：&nbsp;🎉🎉 It was my honor to receive first-class academic scholarship from Shanghai Jiao Tong University. 🐮
+- *2023.11*：&nbsp;🎉🎉 It was my honor to receive the COSCO Shipping Scholarship from Shanghai Jiao Tong University. 🐮
+- *2022.09*: &nbsp;🎉🎉 Admitted by the School of Electronic Information and Electrical Engineering(SEIEE) of Shanghai Jiao Tong University! ✨
+- *2022.06*: &nbsp;🎉🎉 Feel happy for graduation from TJU! 😄
 
 <br/>
 
 # 🎓 Educations
-- *2024.08*-*Current*: &nbsp; PhD student in UNC Chapel Hill. Major: Computer Science
-- *2021.09*-*2024.06*: &nbsp; Master student in SJTU. Major: Electrical Information Engineering
-- *2017.09* -*2021.07*: &nbsp; Undergraduate student in TJU.  Major: Electrical Engineering
-
-<br/>
-
-- Work Experience
-- *2024.08*-*Current*: &nbsp; Teaching Assistant in COMP 590-059 Programming Methods, Models, Languages, and Analysis.
+- *2022.09*-*2025.03*: &nbsp; Master student in SJTU. Major: School of Electronic Information and Electrical Engineering
+- *2018.09* -*2022.06*: &nbsp; Undergraduate student in TJU.  Major: Electrical Engineering
 
 <br/>
 
