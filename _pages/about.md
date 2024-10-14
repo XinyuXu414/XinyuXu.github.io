@@ -54,7 +54,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 <span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Huilin Xiong, Wenxian Yu, Tao Zhang*.
 
-*IEEE Transactions on Image Processing,* 2023.11.11(In Peer Review) 
+*IEEE Transactions on Image Processing,* 2023.11(In Peer Review) 
 
 <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025"><span style="color: #9400D3;">Website</span></a>
 - Universal rotation equivariant convolution-group framework
@@ -72,7 +72,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
   
 <span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Feiming Wei, Huilin Xiong, Wenxian Yu, Tao Zhang*. 
 
-*IEEE Transactions on Circuits and Systems for Video Technology,* 2024.08.07(In Peer Review)
+*IEEE Transactions on Circuits and Systems for Video Technology,* 2024.08(In Peer Review)
 
 <a href="https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_"><span style="color: #9400D3;">Website</span></a>
 - Online distillation
@@ -83,7 +83,25 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS under reveiew 2024</div><img src='images/GRSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery**  
+  
+Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xinyu Xu†**</span> et al.
+
+*International Journal of Surgery,* 2024.09(In Peer Review)
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10453522"><span style="color: #9400D3;">Website</span></a>
+- Segmentation of craniomaxillofacial structures
+- Ensemble learning
+
+</div>
+</div>
+
+<br/>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/GRSL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **An Information-expanding Network for Water Body Extraction based on U-net**  
@@ -95,6 +113,11 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 <a href="https://ieeexplore.ieee.org/abstract/document/10453522"><span style="color: #9400D3;">Website</span></a>
 - Rotation equivariant convolution
 - Rotation-based channel attention mechanism
+
+</div>
+</div>
+
+<br/>
 
 # 💻 Blogs
 - *CV: * [CV](assets/pdf/CV-Hengyu Lian 24.10.2.pdf).  
