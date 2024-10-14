@@ -57,15 +57,15 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 *IEEE Transactions on Image Processing,* 2023.11.11(In Peer Review) 
 
 <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025"><span style="color: #9400D3;">Website</span></a>
-- rotation equivariant convolution-group framework
-- component for replacing convolution
+- Rotation equivariant convolution-group framework
+- Component for replacing convolution
  
 </div>
 </div>
 
  <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP under reveiew 2023</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT under reveiew 2024</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation**  
@@ -75,8 +75,8 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 *IEEE Transactions on Circuits and Systems for Video Technology,* 2024.08.07(In Peer Review)
 
 <a href="https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_"><span style="color: #9400D3;">Website</span></a>
-- Optical reservoir computing with scatter medium
-- Time series analysis
+- Online distillation
+- Robustness against the rotation perturbation
 
 </div>
 </div>
