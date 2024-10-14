@@ -137,6 +137,24 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 
 <br/>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PIERS 2023</div><img src='images/IGARSS_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PolSAR Ship Detection with the Information Reconstruction-based Polarimetric Covariance Matrix**  
+  
+<span style="color: #9400D3;">**Xinyu Xu**</span>, Tao Zhang, Zenghui Zhang, Weiwei Guo, and Wenxian Yu.
+
+*PhotonIcs and Electromagnetics Research Symposium,* 2023
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10221284"><span style="color: #9400D3;">Website</span></a>
+- PolSAR ship detection
+- Yamaguchi 4-decomposition
+
+</div>
+</div>
+
+<br/>
+
 # 💻 Blogs
 - *CV: * [CV](assets/pdf/CV-Hengyu Lian 24.10.2.pdf).  
 - *Note: * [Computational Imaging](assets/pdf/Computational Imaging.pdf).  
