@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hengyu Lian"
+title                    : "Xinyu Xu"
 description              : "Carpe Diem"
-repository               : "Lianhy000/Lianhy000.github.io"
+repository               : "XinyuXu414/XinyuXu414.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hengyu Lian"
-  avatar           : "images/LHY_pic.png"
-  bio              : "PhD Student @ UNC CS"
-  location         : "North Carolina, USA"
+  name             : "Xinyu Xu"
+  avatar           : "images/XXY.jpg"
+  bio              : "Graduate Student @ SJTU SEIEE"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "lianhy0@cs.unc.edu"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    :
+  email            : "xinyu.xu@sjtu.edu.cn"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
