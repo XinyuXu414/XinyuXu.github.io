@@ -193,10 +193,10 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 
 <div class="image-container">
     <div class="image-item">
-        <img src="images/TJU_logo.jpg" alt="Image 1" />
+        <img src="images/TJU_logo.jpg" alt="Image 1" width="60%" />
     </div>
     <div class="image-item">
-        <img src="images/SJTU_logo.png" alt="Image 2" />
+        <img src="images/SJTU_logo.png" alt="Image 2" width="60%"/>
     </div>
    
 </div>
