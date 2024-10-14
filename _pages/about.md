@@ -26,7 +26,7 @@ I have some research experiences in optical/SAR/medical image processing, invari
 
 <br/>
 
-Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span style="color: #9400D3;">xinyu.xu@sjtu.edu.cn</span></a> for any communications related to the my researches or anything else that I can help with.
+Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span style="color: #9400D3;">xinyu.xu@sjtu.edu.cn</span></a> for any communications related to my researches or anything else that I can help with.
 
 <br/>
 
@@ -50,22 +50,22 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optics Letters 2023</div><img src='images/OL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**High-frame-rate reconfigurable diffractive neural network based on superpixels**  
+**PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation**  
 
-Yuan Qu†, <span style="color: #9400D3;">**Hengyu Lian†**</span>, Chunxu Ding, et al.  
+<span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Tao Zhang, Huilin Xiong, Wenxian Yu.
 
-*OSA Optics Letters,* 2023  
+*IEEE Transactions on Image Processing,* 2023.11.11(In Peer Review) 
 
 <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025"><span style="color: #9400D3;">Website</span></a>
-- Superpixels wavefront shaping methods
-- High-frame-rate reconfigurable DNN
+- rotation equivariant convolution-group framework
+- component for replacing convolution
  
 </div>
 </div>
 
  <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Optical Engineering 2024</div><img src='images/opticalengineering.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP under reveiew 2023</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Time series analysis for financial indices using optical reservoir computing**  
