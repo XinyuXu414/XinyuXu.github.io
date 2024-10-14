@@ -57,7 +57,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 *IEEE Transactions on Image Processing,* 2023.11.11(In Peer Review) 
 
 <a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025"><span style="color: #9400D3;">Website</span></a>
-- Rotation equivariant convolution-group framework
+- Universal rotation equivariant convolution-group framework
 - Component for replacing convolution
  
 </div>
@@ -82,6 +82,19 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 </div>
 
 <br/>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**An Information-expanding Network for Water Body Extraction based on U-net**  
+  
+<span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Weiwei Guo, Zenghui Zhang, Tao Zhang*
+
+*IEEE Geoscience and Remote Sensing Letters,* 2023
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10453522"><span style="color: #9400D3;">Website</span></a>
+- Rotation equivariant convolution
+- Rotation-based channel attention mechanism
 
 # 💻 Blogs
 - *CV: * [CV](assets/pdf/CV-Hengyu Lian 24.10.2.pdf).  
