@@ -74,7 +74,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 *IEEE Transactions on Circuits and Systems for Video Technology,* 2024.08(In Peer Review)
 
-<a href="https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.short#_=_"><span style="color: #9400D3;">Website</span></a>
+<a href="https://github.com/XinyuXu414/XinyuXu414.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation"><span style="color: #9400D3;">Website</span></a>
 - Online distillation
 - Robustness against the rotation perturbation
 
@@ -92,7 +92,7 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 
 *International Journal of Surgery,* 2024.09(In Peer Review)
 
-<a href="https://ieeexplore.ieee.org/abstract/document/10453522"><span style="color: #9400D3;">Website</span></a>
+<a href="https://github.com/XinyuXu414/XinyuXu414.github.io/blob/main/_pages/Abstract.md#development-and-validation-of-a-novel-deep-ensemble-learning-based-fully-automatic-multi-structure-segmentation-framework-for-craniomaxillofacial-surgery"><span style="color: #9400D3;">Website</span></a>
 - Segmentation of craniomaxillofacial structures
 - Ensemble learning
 
