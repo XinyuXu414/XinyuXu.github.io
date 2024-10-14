@@ -101,7 +101,7 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 
 <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/GRSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2023</div><img src='images/IGARSS_2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **An Information-expanding Network for Water Body Extraction based on U-net**  
@@ -149,6 +149,24 @@ Jiahao Bao†, Zongcai Tan†, Yifeng Sun†, <span style="color: #9400D3;">**Xi
 <a href="https://ieeexplore.ieee.org/abstract/document/10221284"><span style="color: #9400D3;">Website</span></a>
 - PolSAR ship detection
 - Yamaguchi 4-decomposition
+
+</div>
+</div>
+
+<br/>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2023</div><img src='images/GRSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Water Body Detection Based on an Improved U-Net**  
+  
+<span style="color: #9400D3;">**Xinyu Xu†**</span>, Huazhen Liu†, Zenghui Zhang, Weiwei Guo, Tao Zhang*
+
+*IEEE International Geoscience and Remote Sensing Symposium,* 2023
+
+<a href="https://ieeexplore.ieee.org/abstract/document/10453522"><span style="color: #9400D3;">Website</span></a>
+- Water body Segmentation
+- Rotation equivariance
 
 </div>
 </div>
