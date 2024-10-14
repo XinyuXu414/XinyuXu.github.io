@@ -50,13 +50,13 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP under reveiew 2023</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation**  
+**PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation**
 
 <span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Huilin Xiong, Wenxian Yu, Tao Zhang*.
 
 *IEEE Transactions on Image Processing,* 2023.11(In Peer Review) 
 
-<a href="https://opg.optica.org/ol/abstract.cfm?uri=ol-48-19-5025"><span style="color: #9400D3;">Website</span></a>
+<a href="https://github.com/XinyuXu414/XinyuXu414.github.io/blob/main/_pages/Abstract.md#precm-the-padding-based-rotation-equivariant-convolution-mode-for-semantic-segmentation"><span style="color: #9400D3;">Website</span></a>
 - Universal rotation equivariant convolution-group framework
 - Component for replacing convolution
  
