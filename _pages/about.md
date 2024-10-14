@@ -83,7 +83,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 <br/>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS under reveiew 2024</div><img src='images/GRSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJS under reveiew 2024</div><img src='imagesIJS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Development and validation of a novel deep ensemble learning-based fully automatic multi-structure segmentation framework for craniomaxillofacial surgery**  
