@@ -22,7 +22,7 @@ redirect_from:
 Currently, I am a third-year graduate student at the <a href="https://ast.sjtu.edu.cn/web/index"><span style="color: #9400D3;">Shanghai Key Laboratory of Intelligent Sensing and Recognition</span></a>, Shanghai Jiao Tong University(SJTU), advised by professor <a href="https://ssse.sjtu.edu.cn/Data/Info/415"><span style="color: #9400D3;">Tao Zhang</span></a>. Before that, I've obtained the Bachelor's degree in Electronic Engineering from <a href="https://www.tju.edu.cn/"><span style="color: #9400D3;">Tianjin University</span></a>.
 
 <br/>
-I have some research experiences in optical/SAR/medical image processing, invariance/equivariance within neural networks as well as change detection, while currently I am interested in computer vision, specifically theoretical researches. 
+I have some research experiences in optical/SAR/medical image processing, invariance/equivariance within neural networks as well as change detection, while currently I am interested in computer vision, specifically scene understanding and theoretical foundation. 
 
 <br/>
 
