@@ -57,7 +57,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 *IEEE Transactions on Image Processing,* 2023.11(In Peer Review) 
 
-<a href="https://github.com/XinyuXu414/XinyuXu414.github.io/blob/main/_pages/Abstract.md#precm-the-padding-based-rotation-equivariant-convolution-mode-for-semantic-segmentation"><span style="color: #9400D3;">Website</span></a>
+<a href="https://arxiv.org/abs/2411.01624"><span style="color: #9400D3;">Website</span></a>
 - Universal rotation equivariant convolution-group framework
 - Component for replacing convolution
  
@@ -75,7 +75,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 *IEEE Transactions on Circuits and Systems for Video Technology,* 2024.08(In Peer Review)
 
-<a href="https://github.com/XinyuXu414/XinyuXu414.github.io/blob/main/_pages/Abstract.md#rotation-perturbation-robustness-in-point-cloud-analysis-a-perspective-of-manifold-distillation"><span style="color: #9400D3;">Website</span></a>
+<a href="https://arxiv.org/abs/2411.01748"><span style="color: #9400D3;">Website</span></a>
 - Online distillation
 - Robustness against the rotation perturbation
 
