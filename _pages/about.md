@@ -32,6 +32,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 
 # 🔥 News
+- *2024.11*：&nbsp;🎉🎉 Feel happy for receiving National Scholarship! 😄
 - *2024.10*：&nbsp;🎉🎉 Feel happy for being honored as The Merit Student of Shanghai Jiao Tong University! 😄
 - *2023.12*：&nbsp;🎉🎉 It was my honor to receive first-class academic scholarship from Shanghai Jiao Tong University. 🐮
 - *2023.11*：&nbsp;🎉🎉 It was my honor to receive the COSCO Shipping Scholarship from Shanghai Jiao Tong University. 🐮
