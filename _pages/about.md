@@ -32,6 +32,7 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 
 # 🔥 News
+- *2025.01*：&nbsp;🎉🎉 After 425 days, the article has finally been accepted by TIP!!! ✨
 - *2024.11*：&nbsp;🎉🎉 Feel happy for receiving National Scholarship! 😄
 - *2024.10*：&nbsp;🎉🎉 Feel happy for being honored as The Merit Student of Shanghai Jiao Tong University! 😄
 - *2023.12*：&nbsp;🎉🎉 It was my honor to receive first-class academic scholarship from Shanghai Jiao Tong University. 🐮
@@ -49,14 +50,14 @@ Please feel free to contact me at <a href="https://xinyu.xu@sjtu.edu.cn/"><span 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP under reveiew 2023</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/TIP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **PreCM: The Padding-based Rotation Equivariant Convolution Mode for Semantic Segmentation**
 
 <span style="color: #9400D3;">**Xinyu Xu**</span>, Huazhen Liu, Huilin Xiong, Wenxian Yu, Tao Zhang*.
 
-*IEEE Transactions on Image Processing,* 2023.11(In Peer Review) 
+*IEEE Transactions on Image Processing,* 2025.01 
 
 <a href="https://arxiv.org/abs/2411.01624"><span style="color: #9400D3;">Website</span></a>
 - Universal rotation equivariant convolution-group framework
